@@ -1,6 +1,4 @@
 from livro import Livro
-
-
 tituloLivro = input('Informe o título do livro: ')
 autorLivro = input('Informe o autor do livro: ')
 anoPublicacao = int(input('Informe o ano de publicação: '))
