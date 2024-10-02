@@ -13,7 +13,7 @@ class Funcionario:
     #Iremos utilizar um recurso único do python para acessar atributos privados
     
     #Criando um get personalizado
-    @property #esse item irá criar um hget "mais amigável"
+    @property #esse item irá criar um get "mais amigável"
     def salario(self):
         return self.__salario
     
